@@ -1,6 +1,6 @@
 ---
-title: Tutorial Topa 2019 
-description: 1971 1972 2504
+title: Tutorial Topaz 2019 
+description: 1971 1972 Sprint 18 2504
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
 time: 35 min
