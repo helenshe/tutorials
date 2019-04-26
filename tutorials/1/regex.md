@@ -26,7 +26,7 @@ test
 [DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 1](regex like https://account.hanatrial.ondemand.com/cockpit/#/acc/i347491trial/1)] 
+[ACCORDION-BEGIN [STEP 1](test)] 
 
 [VALIDATE_1] 
 
@@ -38,12 +38,12 @@ regex like 8,4,25.50962892648785,58.96591261834999,525.8242565244109,1.009846676
 
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 5](rexact-match-precise)] 
+[ACCORDION-BEGIN [STEP 3](rexact-match-precise)] 
 [VALIDATE_3] 
 
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 6](regex-begins-with abc)] 
+[ACCORDION-BEGIN [STEP 4](regex-begins-with abc)] 
 [VALIDATE_4] 
 
 [ACCORDION-END]
