@@ -21,19 +21,19 @@ time: 135 min
 test
 
 
-[ACCORDION-BEGIN [STEP 0](Done button)]
+[ACCORDION-BEGIN [STEP 1](Done button)]
 
 [DONE]
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 0](Done button)]
+[ACCORDION-BEGIN [STEP 3](Done button2)]
 
 [DONE]
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 0](Done button)]
+[ACCORDION-BEGIN [STEP 2](Done button3)]
 
 [DONE]
 [ACCORDION-END]
