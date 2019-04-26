@@ -27,6 +27,11 @@ test
 [ACCORDION-END]
 
 
+[ACCORDION-BEGIN [STEP 0](Done button)]
+
+[DONE]
+[ACCORDION-END]
+
 
 [ACCORDION-BEGIN [STEP 0](Done button)]
 
