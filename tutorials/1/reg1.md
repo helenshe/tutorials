@@ -3,7 +3,7 @@ title: Tutorial Topaz 2019 1971 1972
 description: test grodno
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
-time: 35 min
+time: 111 min
 ---
 
 
@@ -13,7 +13,7 @@ time: 35 min
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 ## Next Steps
- - TEST
+ - TEST 26
   
 
 ## Details
@@ -27,7 +27,7 @@ time: 35 min
 [VALIDATE_2] 
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 5](rexact-match-precise)] 
+[ACCORDION-BEGIN [STEP 5](exact)] 
 [VALIDATE_5] 
 [ACCORDION-END]
 
