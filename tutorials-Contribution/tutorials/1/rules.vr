@@ -1,75 +1,43 @@
-    
-
-
-[VALIDATE_8]
+[VALIDATE_1]
 ###Rule
-multiple-choice
+exact-match
 
 ###Question
-The text of question for multi-choice
+2+1
 
 ###Match
-[x] Answer 1
-[ ] Answer 2
-[ ] Answer 3
-[x] Answer 4
-[VALIDATE_8]
+3
+[VALIDATE_1]
 
-[VALIDATE_9]
+[VALIDATE_2]
 ###Rule
-multiple-choice
-###Question
-The text of question for 2-4-choice
-
-###Match
-[ ] Answer 1
-[x] Answer 2
-[x] Answer 3
-[x] Answer 4
-
-[VALIDATE_9]
-
-
-[VALIDATE_11]
-###Rule
-single-choice
+exact-match
 
 ###Question
-The text of question for single-choice #2
+2+2
 
 ###Match
-[x] Answer 1
-[ ] Answer 2
-[x] Answer 3
-[ ] Answer 4
+4
+[VALIDATE_2]
 
-[VALIDATE_11]
-
-[VALIDATE_12]
+[VALIDATE_3]
 ###Rule
-single-choice
+exact-match
 
 ###Question
-The text of question for single-choice #2
+2+6
 
 ###Match
-[ ] Answer 1
-[x] Answer 2
-[x] Answer 3
-[ ] Answer 4
-[VALIDATE_12]
+8
+[VALIDATE_3]
 
-[VALIDATE_13]
+[VALIDATE_4]
 ###Rule
-single-choice
+exact-match
 
 ###Question
-The text of question for single-choice #3
+2+6
 
 ###Match
-[ ] Answer 1
-[ ] Answer 2
-[x] Answer 3
-[ ] Answer 4
-
-[VALIDATE_13]
+8
+[VALIDATE_4]
