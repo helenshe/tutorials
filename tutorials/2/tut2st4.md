@@ -1,6 +1,6 @@
 ---
 title: Tutorial with 4 steps 04/2019
-description: 2019 example grodno 2604
+description: 2019 example grodno 2904
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>Licence, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 qrcode: true
